@@ -1,0 +1,53 @@
+
+
+.fundo {
+  position: absolute;
+  width: 1776px;
+  height: 1556px;
+  left: -104px;
+  top: -208px;
+}
+
+.bola {
+  position: absolute;
+  width: 790px;
+  height: 708px;
+  border-radius: 50%;
+  box-shadow: 0px 4px 43.5px rgba(0, 0, 0, 0.25);
+  filter: blur(164.85px);
+}
+
+.bola-1 {
+  left: -104px;
+  top: -208px;
+  background: #A525BE;
+}
+
+.bola-2 {
+  left: 640px;
+  top: -114px;
+  background: #5825BE;
+}
+
+.bola-3 {
+  left: 35px;
+  top: 360px;
+  background: #2574BE;
+}
+
+.bola-4 {
+  left: 882px;
+  top: 640px;
+  background: #25BEA5;
+}
+
+.custom-margin {
+  margin: 2rem;
+}
+
+.btn-transparente {
+  background-color: transparent;
+  border: 1px solid #ffffff; /* Ajuste a cor conforme necessário */
+  color: #ffffff; /* Cor do texto */
+  cursor: pointer;
+}
